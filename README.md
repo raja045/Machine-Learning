@@ -1,2 +1,2 @@
 # Machine-Learning
-This reposirtory contains all models I trained during time of learning.
+This repository contains all models I trained during time of learning.
