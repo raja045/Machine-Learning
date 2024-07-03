@@ -1,4 +1,4 @@
-
+# Intrusion Detection System Using Logistic Regression
 ## Project Overview
 This Intrusion Detection System (IDS) project aims to identify and classify network intrusions using machine learning techniques. The system processes network data, extracts relevant features, and applies a trained model to detect potential security threats.
 
